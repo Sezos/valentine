@@ -15,8 +15,8 @@ function App() {
         "no",
         "are you sure?",
         "You might regret it!",
-        "Really? Think again! ",
-        "Come on, don't be shy! ",
+        "Really? Think again!",
+        "Come on, don't be shy!",
         "Give it a shot! Imagine all the fun we could have!",
         "I promise it will be worth it!",
         "Don't let this opportunity slip away! Just say yes! What do you have to lose?",
@@ -25,7 +25,6 @@ function App() {
         "Say yes and let the magic begin!",
         "You are breaking my heart! I would be sad. Say yes!",
         "Last chance! Say yes and make my day!",
-        "You are leaving me no choice! Say yes!",
     ];
 
     const click = () => {
