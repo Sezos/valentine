@@ -26,8 +26,8 @@
   justify-content: center;
   position: relative;
   height: 52px;
-  width: 190px;
-  padding: 0;
+  min-width: 190px;
+  padding: 15px;
   margin: 25px;
   
 }
